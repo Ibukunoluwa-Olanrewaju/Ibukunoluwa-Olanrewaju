@@ -24,7 +24,7 @@ Outside of analytics, I enjoy watching football, playing video games, and watchi
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://ibukunoluwa-olanrewaju.github.io/)
       
 ## 🔭 What I'm Currently Working On
 
